@@ -12,7 +12,8 @@
         accuracy                           0.55      4092
        macro avg       0.49      0.50      0.39      4092
     weighted avg       0.50      0.55      0.43      4092
-   ![Image](images/3Months.png)
+    ![alt text](https://github.com/roshankanel/module_14_challenge/blob/main/images/3months-1.png)
+
    
 ### Conclusions of Original Model Performance (Question 1):
 
