@@ -12,8 +12,13 @@
         accuracy                           0.55      4092
        macro avg       0.49      0.50      0.39      4092
     weighted avg       0.50      0.55      0.43      4092
+<<<<<<< HEAD
  ![Image](images/3Months.png)
   !(/images/logo.jpg)
+=======
+    ![alt text](https://github.com/roshankanel/module_14_challenge/blob/main/images/3months-1.png)
+
+>>>>>>> f5538ca1439e3298ff2e6cac834f6da149d7baa3
    
 ### Conclusions of Original Model Performance (Question 1):
 
@@ -79,4 +84,8 @@ weighted avg       0.51      0.52      0.51      4092
  
 ## Final Evaluation: (Question 4)
 
+<<<<<<< HEAD
 Overall, it seems that more technical indicators is be needed to get more variety in model performance.
+=======
+Overall, it seems that more technical indicators is be needed to get more variety in model performance. However, it is interesting to see how heavily training size impacts the strategy returns, but almost all strategy returns seem to fall between 2 performance patterns. This duality in model performance makes me think that overfitting could certainly be forcing our models into a buy-side biased behavior. 
+>>>>>>> f5538ca1439e3298ff2e6cac834f6da149d7baa3
