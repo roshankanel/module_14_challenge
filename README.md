@@ -13,7 +13,7 @@
        macro avg       0.49      0.50      0.39      4092
     weighted avg       0.50      0.55      0.43      4092
 
-   !(/images/3Months.jpg)
+   ![3Months](/images/3Months.jpg)
    
 ### Conclusions of Original Model Performance (Question 1):
 
