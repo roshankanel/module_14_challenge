@@ -12,8 +12,7 @@
         accuracy                           0.55      4092
        macro avg       0.49      0.50      0.39      4092
     weighted avg       0.50      0.55      0.43      4092
-
-   ![3Months](/images/3Months.jpg)
+ ![](/images/3months.png)
    
 ### Conclusions of Original Model Performance (Question 1):
 
@@ -32,7 +31,7 @@ Looking at the classification report of the original model, as well as graph, st
    macro avg       0.50      0.50      0.38      3943
 weighted avg       0.51      0.56      0.42      3943
     
- ![Image](images/6Months.png)
+ ![](/images/6months.png)
        
 ## Short SMA = 4 days and  Long SMA = 100 days, training window = 9 months      
   precision    recall  f1-score   support
@@ -43,7 +42,8 @@ weighted avg       0.51      0.56      0.42      3943
     accuracy                           0.53      3704
    macro avg       0.51      0.51      0.50      3704
 weighted avg       0.52      0.53      0.51      3704
- ![Image](images/9Months.png)
+ 
+ ![](/images/9months.png)
  
  ## Short SMA = 20 days and  Long SMA = 50 days, training window = 3 months      
    
@@ -56,7 +56,7 @@ weighted avg       0.52      0.53      0.51      3704
    macro avg       0.28      0.50      0.36      4147
 weighted avg       0.31      0.56      0.40      4147
 
- ![Image](images/3Months-1.png)
+ ![](images/3months-1.png)
  
  
  ## Conclusions of Logistic Regression Model With Best Results (Question 3)
